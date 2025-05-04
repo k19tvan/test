@@ -1,0 +1,11 @@
+dataset/Fisheye8K/
+dataset/visdrone/
+dataset/synthetic_visdrone/
+dataset/fisheye_test
+dataset/synthetic_visdrone/train.json
+dataset/visdrone/train.json
+dataset/vip_cup_day
+dataset/vip_cup_night
+checkpoint/
+dataset/1
+dataset/data_fake
